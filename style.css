@@ -102,3 +102,11 @@ section {
 input{
     text-align: center;
 }
+
+@media screen and (min-width: 330px){
+
+
+    section{
+        width: 290px;
+    }
+}
